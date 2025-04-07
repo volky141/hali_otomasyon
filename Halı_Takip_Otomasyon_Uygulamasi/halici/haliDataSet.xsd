@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="haliDataSet" targetNamespace="http://tempuri.org/haliDataSet.xsd" xmlns:mstns="http://tempuri.org/haliDataSet.xsd" xmlns="http://tempuri.org/haliDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="haliConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="haliConnectionString (Settings)" PropertyReference="ApplicationSettings.halici.Properties.Settings.GlobalReference.Default.haliConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SiparişlerTableAdapter" GeneratorDataComponentClassName="SiparişlerTableAdapter" Name="Siparişler" UserDataComponentName="SiparişlerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="haliConnectionString (Settings)" DbObjectName="Siparişler" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT durum FROM Siparişler</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="durum" DataSetColumn="durum" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="haliDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="haliDataSet" msprop:Generator_DataSetName="haliDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Siparişler" msprop:Generator_RowEvHandlerName="SiparişlerRowChangeEventHandler" msprop:Generator_RowDeletedName="SiparişlerRowDeleted" msprop:Generator_RowDeletingName="SiparişlerRowDeleting" msprop:Generator_RowEvArgName="SiparişlerRowChangeEvent" msprop:Generator_TablePropName="Siparişler" msprop:Generator_RowChangedName="SiparişlerRowChanged" msprop:Generator_RowChangingName="SiparişlerRowChanging" msprop:Generator_TableClassName="SiparişlerDataTable" msprop:Generator_RowClassName="SiparişlerRow" msprop:Generator_TableVarName="tableSiparişler" msprop:Generator_UserTableName="Siparişler">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="durum" msprop:Generator_ColumnPropNameInRow="durum" msprop:Generator_ColumnPropNameInTable="durumColumn" msprop:Generator_ColumnVarNameInTable="columndurum" msprop:Generator_UserColumnName="durum" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

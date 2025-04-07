@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F33DEF6F-101C-4D5F-96F0-C49D2EA1E29D}|halici.csproj|c:\\users\\asus\\desktop\\grup 5 hal\u0131 y\u0131kama d\u00FCzenlenmi\u015F\\15-03-2025\\halici\\envanter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33DEF6F-101C-4D5F-96F0-C49D2EA1E29D}|halici.csproj|solutionrelative:envanter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33DEF6F-101C-4D5F-96F0-C49D2EA1E29D}|halici.csproj|C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F33DEF6F-101C-4D5F-96F0-C49D2EA1E29D}|halici.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33DEF6F-101C-4D5F-96F0-C49D2EA1E29D}|halici.csproj|C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33DEF6F-101C-4D5F-96F0-C49D2EA1E29D}|halici.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33DEF6F-101C-4D5F-96F0-C49D2EA1E29D}|halici.csproj|C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\envanter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F33DEF6F-101C-4D5F-96F0-C49D2EA1E29D}|halici.csproj|solutionrelative:envanter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:55:48.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:54:28.023Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Envanter.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\Envanter.cs",
+              "RelativeDocumentMoniker": "Envanter.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\Envanter.cs",
+              "RelativeToolTip": "Envanter.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:45:07.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Envanter.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\Envanter.cs",
+              "RelativeDocumentMoniker": "Envanter.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Grup 5 Hal\u0131 y\u0131kama D\u00FCzenlenmi\u015F\\15-03-2025\\halici\\Envanter.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Envanter.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:37:48.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

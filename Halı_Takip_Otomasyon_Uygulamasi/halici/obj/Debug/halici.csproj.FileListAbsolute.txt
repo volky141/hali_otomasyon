@@ -1,0 +1,186 @@
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\bin\Debug\halici.exe.config
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\bin\Debug\halici.exe
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\bin\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.Admin.resources
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.Duzenle.resources
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.Form1.resources
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.exe
+C:\Users\LENOVO\Desktop\ana deneme dosyası\halici\obj\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\bin\Debug\halici.exe.config
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\bin\Debug\halici.exe
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\bin\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.Admin.resources
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.Duzenle.resources
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.Form1.resources
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.exe
+C:\Users\LENOVO\Desktop\derlenmiş hali\halici\obj\Debug\halici.pdb
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\bin\Debug\halici.exe.config
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\bin\Debug\halici.exe
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\bin\Debug\halici.pdb
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.Admin.resources
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.Duzenle.resources
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.Form1.resources
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.exe
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\obj\Debug\halici.pdb
+C:\Users\Asus\Desktop\derlenmiş hali\derlenmiş hali\halici\bin\Debug\hali.accdb
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\bin\Debug\hali.accdb
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\bin\Debug\halici.exe.config
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\bin\Debug\halici.exe
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\bin\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.Admin.resources
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.Duzenle.resources
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.Form1.resources
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.exe
+C:\Users\LENOVO\Desktop\04-03VOLKY\derlenmiş hali\halici\obj\Debug\halici.pdb
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\bin\Debug\hali.accdb
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe.config
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.pdb
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Admin.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Duzenle.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Form1.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.exe
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\hali.accdb
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe.config
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Admin.resources
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Duzenle.resources
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Form1.resources
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yedekler - Kopya\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\hali.accdb
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe.config
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Admin.resources
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Duzenle.resources
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Form1.resources
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yedekler\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\hali.accdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe.config
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Admin.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Form1.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Personeller.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Envanter.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\hali.accdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe.config
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Admin.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Envanter.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.GlobalSettings.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Personeller.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\hali.accdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe.config
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Admin.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Envanter.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Personeller.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Form1.resources
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Admin.resources
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.StokTakipForm.resources
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Form1.resources
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Personeller.resources
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.exe
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.pdb
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\hali.accdb
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe.config
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe
+C:\Users\Asus\Desktop\Yeni klasör - Kopya - Kopya\Yeni klasör - Kopya - Kopya\Yeni klasör\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.pdb
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\hali.accdb
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe.config
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.exe
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\bin\Debug\halici.pdb
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Admin.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.StokTakipForm.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Form1.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Personeller.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.exe
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\Halı yıkama otomasyonu grup5\halici\obj\Debug\halici.pdb
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\bin\Debug\hali.accdb
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\bin\Debug\halici.exe.config
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\bin\Debug\halici.exe
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\bin\Debug\halici.pdb
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.Admin.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.StokTakipForm.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.Form1.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.Personeller.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.Properties.Resources.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.Siparis_Olustur.resources
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.exe
+C:\Users\Asus\Desktop\Grup 5 Halı yıkama Düzenlenmiş\15-03-2025\halici\obj\Debug\halici.pdb
